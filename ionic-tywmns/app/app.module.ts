@@ -29,12 +29,7 @@ import { NotFoundPage } from '../pages/notfound/notfound';
 
 
 const config = {
-    apiKey: 'AIzaSyAGEsHY5HqdagKtgPj7q9g02qru0DUBgfY',
-    authDomain: 'fire-81623.firebaseapp.com',
-    databaseURL: 'https://fire-81623.firebaseio.com',
-    projectId: 'fire-81623',
-    storageBucket: 'fire-81623.appspot.com',
-    messagingSenderId: '822857744'
+   
 };
 
 @NgModule({
